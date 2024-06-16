@@ -1,5 +1,5 @@
 <h1 align="center"> 🖥️ Java_Project </h1>
-<h4 align="center"> 22-2 겨울계절학기 객체지향프로그래밍 과제 </h4>
+<h4 align="center"> 22-2 겨울계절학기 객체지향프로그래밍 프로젝트 </h4>
 
 ## Introduction
 * 주제: Java 언어 이론 학습 및 실습 
@@ -11,3 +11,6 @@
 - [GridBag](https://github.com/daunJJ/Java_Project/tree/main/GridBagLayout)
 - [나만의 Chart](https://github.com/daunJJ/Java_Project/tree/main/Chart)
 - [Swing 기반 Event를 추가한 계산기](https://github.com/daunJJ/Java_Project/tree/main/Calculator)
+
+#### Java 최종 과제
+- [무인카페 키오스크 프로그램 개발](https://github.com/daunJJ/Java_Project/tree/main/Kiosk) 
